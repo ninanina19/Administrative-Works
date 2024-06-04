@@ -12,7 +12,7 @@ The following template serves as a reference for creating detailed and well-orga
 
    **Contents:** Includes system requirements, installation steps, initial and advanced configuration settings, and best practices for maintaining configuration integrity.
 
-   ![image for t-01](images/t-01.PNG)
+   ![image for t-01](images/t-01.png)
 
 **2. Procedures Documentation**
 
@@ -20,7 +20,7 @@ The following template serves as a reference for creating detailed and well-orga
 
    **Contents:** Covers a range of procedures from user management and data entry to generating reports and conducting system checks. Each procedure is presented with clear steps, accompanied by screenshots or diagrams where necessary.
 
-  ![image for t-02](images/t-02.PNG)
+  ![image for t-02](images/t-02.png)
 
 **3. Troubleshooting Documentation**
 
@@ -33,7 +33,7 @@ The following template serves as a reference for creating detailed and well-orga
    - Contact Support: Instructions for contacting support with detailed issue reports.
    - Frequently Asked Questions (FAQs): Answers to common questions.
 
-   ![image for t-03](images/t-03.PNG)
+   ![image for t-03](images/t-03.png)
    
 **4. Issue Reporting**
 
@@ -42,7 +42,7 @@ The following template serves as a reference for creating detailed and well-orga
    **Contents:** Provides a structured template for documenting issues, including sections for summary, steps to reproduce, expected and actual outcomes, severity level, screenshots/attachments, environment details, contact information, and additional notes.
    This template helps ensure that all relevant information is captured to facilitate quick and accurate troubleshooting.
 
- ![image for t-04](images/t-04.PNG)
+ ![image for t-04](images/t-04.png)
    
 #### Why This Template is Essential::
 
