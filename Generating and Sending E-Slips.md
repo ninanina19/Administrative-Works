@@ -1,12 +1,13 @@
-### Workflow Documentation: Generating and Sending E-Slips
+## Workflow Documentation: Generating and Sending E-Slips
 
 **Objective:**
 To automate the process of creating and sending e-slips to all employees using Google Sheets, Google Docs, and Gmail.
 
 ### Step-by-Step Process
 
+---
 #### 1. Prepare the Data in Google Sheets
-
+---
 1. **Create a Spreadsheet:**
    - Open Google Sheets and create a new spreadsheet.
    - Create columns for employee details such as `Employee Name`, `Email`, `Salary`, and any other relevant details.
@@ -14,8 +15,9 @@ To automate the process of creating and sending e-slips to all employees using G
 2. **Enter Employee Data:**
    - Populate the spreadsheet with the necessary employee information.
 
+---
 #### 2. Create the E-Slip Template in Google Docs
-
+---
 1. **Open Google Docs:**
    - Create a new document in Google Docs.
 
@@ -25,8 +27,9 @@ To automate the process of creating and sending e-slips to all employees using G
 3. **Save the Template:**
    - Save the document as your e-slip template.
 
+---
 #### 3. Use Google Sheets and Google Docs for Mail Merge
-
+---
 1. **Install the Add-ons:**
    - In Google Sheets, install the **"Autocrat"** add-on.
    - In Google Docs, you might also need **"Doc Variables"** or similar for placeholders.
@@ -50,8 +53,9 @@ To automate the process of creating and sending e-slips to all employees using G
 6. **Run the Job:**
    - Click `Run Job` to generate the e-slips for all employees.
 
+---
 #### 4. Send E-Slips via Gmail
-
+---
 1. **Install the Yet Another Mail Merge (YAMM) Add-on:**
    - In Google Sheets, install **"Yet Another Mail Merge (YAMM)"**.
 
@@ -69,7 +73,7 @@ To automate the process of creating and sending e-slips to all employees using G
 
 5. **Send the Emails:**
    - Review the email settings and send the emails.
-
+---
 ### Summary
 
 By following these steps, you will be able to generate personalized e-slips for all employees and send them via email efficiently. This workflow leverages Google Sheets for data management, Google Docs for creating e-slip templates, and Gmail for mass email sending, ensuring an organized and automated process.
