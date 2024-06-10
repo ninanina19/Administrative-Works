@@ -1,4 +1,4 @@
-Welcome to my portfolio, where I showcase a comprehensive template designed to document application configuration, procedures, troubleshooting, and issue reporting. In today's fast-paced technological environment, having well-structured and detailed documentation is crucial for maintaining seamless operations, facilitating efficient onboarding, and ensuring quick resolution of issues.
+Welcome to my portfolio, where I display a template designed to document **application configuration**, **procedures**, **troubleshooting**, and **reporting issue**. In today's fast-paced technological environment, having well-structured and detailed documentation is crucial for maintaining seamless operations, facilitating efficient onboarding, and ensuring quick resolution of issues.
 
 #### Purpose of the Template:
 The following template serves as a reference for creating detailed and well-organized documentation for application configuration, operational procedures, and troubleshooting. This template is designed to standardize documentation practices, making it easier for teams to maintain consistency, accuracy, and clarity in their technical documentation efforts.
