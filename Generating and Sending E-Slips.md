@@ -78,3 +78,29 @@ To automate the process of creating and sending e-slips to all employees using G
 
 By following these steps, you will be able to generate personalized e-slips for all employees and send them via email efficiently. This workflow leverages Google Sheets for data management, Google Docs for creating e-slip templates, and Gmail for mass email sending, ensuring an organized and automated process.
 
+---
+### Screenshot
+
+<details>
+<summary>Data in Spreadsheets</summary>
+   
+## <!-- Horizontal Line --> ## 
+![Data in Spreadsheet](images/excel_eslip.PNG) 
+
+</details>
+
+<details>
+<summary>E-Slip Template in Google Docs</summary>
+   
+## <!-- Horizontal Line --> ## 
+![Data in Spreadsheet](images/eslip.PNG) 
+
+</details>
+
+<details>
+<summary>E-Slip Sent</summary>
+   
+## <!-- Horizontal Line --> ## 
+![Data in Spreadsheet](images/email_eslip.PNG) 
+
+</details>
