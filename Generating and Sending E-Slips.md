@@ -22,7 +22,7 @@ To automate the process of creating and sending e-slips to all employees using G
    - Create a new document in Google Docs.
 
 2. **Design the E-Slip:**
-   - Format the document to include placeholders for employee details. Use `{{placeholder}}` syntax for placeholders (e.g., `{{Employee Name}}`, `{{Salary}}`).
+   - Format the document to include placeholders for employee details. Use `{{placeholder}}` syntax for placeholders (e.g., `{{Employee Name}}`, `{{Bonus}}`, `{{Salary}}`).
 
 3. **Save the Template:**
    - Save the document as your e-slip template.
@@ -61,7 +61,7 @@ To automate the process of creating and sending e-slips to all employees using G
 
 2. **Prepare the Email Draft:**
    - In Gmail, compose a new email draft that will be used for the e-slips email.
-   - Include placeholders in the draft (e.g., `{{First Name}}`, `{{Attachment}}`).
+   - Include placeholders in the draft (e.g., `{{Employee Name}}`, `{{Attachment}}`).
 
 3. **Configure YAMM:**
    - Go to Google Sheets > `Add-ons` > `Yet Another Mail Merge` > `Start Mail Merge`.
@@ -78,10 +78,3 @@ To automate the process of creating and sending e-slips to all employees using G
 
 By following these steps, you will be able to generate personalized e-slips for all employees and send them via email efficiently. This workflow leverages Google Sheets for data management, Google Docs for creating e-slip templates, and Gmail for mass email sending, ensuring an organized and automated process.
 
-### Additional Tips
-
-- **Testing:** Run a test with a few entries to ensure that the workflow is functioning correctly.
-- **Security:** Ensure that sensitive information is handled securely and access to the Google Sheets and Docs is restricted to authorized personnel only.
-- **Updates:** Regularly update the templates and data in Google Sheets to reflect any changes in employee information or salary details.
-
-This documentation provides a clear and structured approach to automate the generation and distribution of e-slips, making the process efficient and error-free.
